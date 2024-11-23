@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+logs/
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Vercel config files (optional)
+.vercel/
+
+# IDE-related files
+.vscode/
+.idea/
